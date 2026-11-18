@@ -1,0 +1,8 @@
+.env
+test.db
+scraped_content/
+.venv/
+__pycache__/
+.DS_Store
+
+
